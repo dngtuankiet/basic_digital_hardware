@@ -1,1 +1,1 @@
-# beginner
+# Simple Verilog Projects
